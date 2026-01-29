@@ -5,7 +5,6 @@ int rec = 0; // Intialising the integer variable rec to a value of 0
 /*  
  Written: 24/04/2024  
  By: Kimberly Njamen  
- Student Number: X00214281  
  Description: IES Mini Project Processing Code: Y-Station Controller GUI  
  */
 
@@ -198,4 +197,5 @@ void draw() { // Function runs continuously and loops to refresh + curly bracket
 void serialEvent(Serial commPort) { // Function detailing the events with the serial port  
  rec =  commPort.read(); // Sets the value of the variable rec to data available on the comm port  
 } // Closes function  
+
   
