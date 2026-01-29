@@ -1,7 +1,6 @@
 /* 
    Written: 23/04/2024 
    By: Kimberly Njamen 
-   Student Number: X0014281 
    Description: IES Mini project: Energia code 
 */ 
   
@@ -60,4 +59,5 @@ void loop() { // Function runs continuosly and loops to refresh + curly brackets
  
 } // Closes function 
   
+
   
